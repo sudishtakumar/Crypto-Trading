@@ -60,6 +60,3 @@ Other features -
 36. Hosted using netlify, netlify.toml file.
 37. Gradient footer - gradient animation
 38. Added toasts - react-toastify for every action.
-
-
-Add this project in your resume.
